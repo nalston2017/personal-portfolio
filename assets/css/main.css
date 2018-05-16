@@ -85,6 +85,8 @@
 		width: 960px;
 	}
 
+
+
 	@media screen and (min-width: 737px) {
 
 		.container.\31 25\25 {
@@ -1880,9 +1882,10 @@
 					line-height: 1.75em;
 				}
 
-				#bio {
+				#bio p {
 					font-size: 1.3em;
 					line-height: 1.75em;
+					margin-bottom: 0.75em;
 				}
 
 			#contact footer {
